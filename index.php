@@ -2,8 +2,8 @@
 
 echo 'Olá Mundo!';
 
-echo 'Adeus Mundo!';
+echo 'Adeus Mundo!!';
 
-echo 'Voltei!';
+echo 'Voltei gente !';
 
 ?>
